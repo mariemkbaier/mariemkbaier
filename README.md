@@ -106,7 +106,7 @@ flatter the result.
 
 ## 🔬 Featured Projects
 
-**🤖 [Vision-Guided Pick-and-Place](https://github.com/mariemkbaier/cv-robotics-pipeline)**
+**🤖 [Vision-Guided Pick-and-Place](https://github.com/mariemkbaier/vision-guided-pick-and-place)**
 Camera-to-grasp pipeline with no privileged information in the loop: hand-eye calibration (AX = XB), 6D pose from PnP with ambiguity handling, IK via damped least squares. The eval harness exists because an error in any one stage is indistinguishable from the others at the gripper — so it attributes error to the right stage.
 `Python` `OpenCV` `kinematics` `calibration`
 
