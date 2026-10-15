@@ -118,10 +118,6 @@ Cross-building activity recognition and occupancy estimation on WSU sensor data 
 Fully on-device meeting assistant: streaming ASR over WebSockets, retrieval across documents and past transcripts, grounded spoken Q&A via a local LLM. No external API calls, no per-token cost, no audio leaving the machine.
 `faster-whisper` `FAISS` `Ollama` `FastAPI`
 
-**🏷️ [Automated Annotation Pipeline](https://github.com/mariemkbaier/auto_labelling_tool)**
-Automatic image labeling for detection datasets, with pseudo-label quality and annotation-noise analysis feeding back into the training loop.
-`SAM2` `Grounding DINO` `SAHI`
-
 ***
 
 ## 🎓 Education
